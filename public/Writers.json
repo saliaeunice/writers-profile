@@ -1,0 +1,57 @@
+[
+{
+    "id" :1,
+    "name" :"Audre Lorde",
+    "avatar" :"audre_lorde",
+    "email" : "audrelorde@gmail.com",
+    "phone" :"0249225053",
+    "bio" :"she is a prolific writer with many best selling books to her name"
+
+
+},
+
+{
+"id" :1,
+"name" :"Audre Lorde",
+"avatar" :"audre_lorde",
+"email" : "audrelorde@gmail.com",
+"phone" :"0249225053",
+"bio" :"she is a prolific writer with many best selling books to her name"
+},
+
+{
+    "id" :1,
+    "name" :"Audre Lorde",
+    "avatar" :"audre_lorde",
+    "email" : "audrelorde@gmail.com",
+    "phone" :"0249225053",
+    "bio" :"she is a prolific writer with many best selling books to her name"
+    },
+
+    {
+        "id" :1,
+        "name" :"Audre Lorde",
+        "avatar" :"audre_lorde",
+        "email" : "audrelorde@gmail.com",
+        "phone" :"0249225053",
+        "bio" :"she is a prolific writer with many best selling books to her name"
+        },
+        {
+            "id" :1,
+            "name" :"Audre Lorde",
+            "avatar" :"audre_lorde",
+            "email" : "audrelorde@gmail.com",
+            "phone" :"0249225053",
+            "bio" :"she is a prolific writer with many best selling books to her name"
+            },
+            {
+                "id" :1,
+                "name" :"Audre Lorde",
+                "avatar" :"audre_lorde",
+                "email" : "audrelorde@gmail.com",
+                "phone" :"0249225053",
+                "bio" :"she is a prolific writer with many best selling books to her name"
+                }
+                                    
+
+]
